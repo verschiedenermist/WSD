@@ -12,5 +12,7 @@
 
 ## Используемые библиотеки:
 `nltk, pymorphy2, natasha, conllu, sklearn, pandas, numpy`
+
 Контекстные эмбеддинги `ELMo, AdaGram`
+
 Методы кластеризации `KMeans`
