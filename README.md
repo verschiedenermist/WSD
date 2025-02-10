@@ -11,7 +11,7 @@
 5. **Анализ ошибок:** сравнение результатов разных методов WSD, разобраны примеры некорректных предсказаний и возможные причины ошибок.
 
 ## Используемые библиотеки:
-`nltk, pymorphy2, natasha, conllu, sklearn, pandas, numpy`
+`nltk, pymystem3, natasha, conllu, sklearn, pandas, numpy`
 
 Контекстные эмбеддинги `ELMo, AdaGram`
 
